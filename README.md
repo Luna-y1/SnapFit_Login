@@ -27,15 +27,6 @@ SnapFit is a Flutter mobile application interface developed as part of a Flutter
 - Password matching validation
 - Navigation back to Login page
 
-## Screenshots
-
-### Login Page
-
-![Login Page](screenshots/login.png)
-
-### Registration Page
-
-![Registration Page](screenshots/registration.png)
 
 ## Technologies Used
 
